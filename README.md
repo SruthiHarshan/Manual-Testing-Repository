@@ -1,2 +1,2 @@
 # Manual-Testing-Repository
-QA Portfolio Project: This is a sample QA project showcasing my ability to do manual test design, execution, and defect reporting. 
+QA Portfolio Project: Manual testing project for an e-commerce demo site (test plan, test cases, bug reports) 
